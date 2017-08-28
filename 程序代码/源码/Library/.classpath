@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="lib" path="C:/Users/hzy/Desktop/暂用资料/赛杰作业/赛杰笔记/外观美化/外观美化/swing外观包.jar"/>
+	<classpathentry kind="lib" path="D:/sqljdbc4/sqljdbc_4.0/chs/sqljdbc4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
